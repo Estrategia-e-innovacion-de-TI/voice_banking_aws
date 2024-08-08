@@ -1,0 +1,14 @@
+cryptography==42.0.8
+faker==25.5.0
+fastapi==0.111.1
+gtts==2.5.1
+numpy==1.26.4
+openai==0.28.0
+pymysql==1.1.1
+sounddevice==0.4.7
+sqlalchemy==1.4.52
+wavio==0.0.9
+openai-whisper
+pyjwt
+boto3
+amazon-transcribe
